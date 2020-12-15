@@ -1,0 +1,8 @@
+/* Este es el estilo del main.css */
+html, body {
+    background-color: black;
+}
+
+img {
+    max-width: 25%;
+}
